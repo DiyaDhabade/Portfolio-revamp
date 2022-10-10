@@ -34,7 +34,7 @@ class Resp extends Component {
             <img src={acmwlogo} alt="" />
           </div>
           <div className="resp-Content">
-            <h1>Association of Computing Machinery, Manipal</h1>
+            <h1>Association of Computing Machinery Women, Manipal</h1>
             <h3>General Sectretary</h3>
             <p>
               ACM-W supports, celebrates, and advocates for the full engagement
