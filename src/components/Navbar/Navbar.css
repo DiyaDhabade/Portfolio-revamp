@@ -1,28 +1,9 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
-body {
+* {
+  box-sizing: border-box;
   margin: 0;
+  padding: 0;
   font-family: "Poppins", sans-serif;
-  background-image: url("C:\Users\Diya Dhabade\OneDrive\Desktop\diyaportfolio\src\assets\back.jpg");
-  background-size: cover;
-  background-position: left;
-  background-repeat: no-repeat;
-  overflow-x: hidden;
-  scrollbar-color: #000 transparent;
-}
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
-}
-body::-webkit-scrollbar {
-  width: 1em;
-}
-
-body::-webkit-scrollbar-track {
-  background-color: rgba(225, 216, 238, 0.551);
-}
-
-body::-webkit-scrollbar-thumb {
-  background-color: #d5bced;
+  scroll-behavior: smooth;
 }
 .NavbarItems {
   position: sticky;

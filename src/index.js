@@ -1,13 +1,25 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import App from "./App";
+import Navbar from "./components/Navbar/Navbar";
+import Intro from "./components/Intro/Intro";
+import reportWebVitals from "./reportWebVitals";
+import WorkExp from "./components/WorkExp/WorkExp";
+import Resp from "./components/Responsibility/Resp";
+import Projects from "./components/Projects/Projects";
+import Footer from "./components/Footer/Footer";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <App />
+    <Navbar />
+    <Intro />
+    <WorkExp />
+    <Resp />
+    <Projects />
+    <Footer />
   </React.StrictMode>
 );
 

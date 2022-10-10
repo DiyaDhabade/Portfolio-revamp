@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+.project-content {
+  margin: 20vh;
+}
+.project-container {
+  margin: 4vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.project-content h1 {
+  font-size: 3.2rem;
+  font-weight: 600;
+  padding-bottom: 4vh;
+}
+.project-container img {
+  width: 36vw;
+  border-radius: 3.2vw;
+}
+.project-box {
+  border-radius: 3.2vw;
+  padding: 8vh;
+  background: rgba(255, 255, 255, 0.48);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+}
+.project-box h2 {
+  display: flex;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 600;
+  border-bottom: 8px solid rgb(247, 233, 245);
+}
+.project-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.project-container p {
+  margin: 2vw;
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+.project-links {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background: -webkit-linear-gradient(#59a3ed, #8543c6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.project-links a {
+  text-decoration: none;
+  color: #fff;
+  padding: 1vw;
+  font-size: 1.4rem;
+  transition: all 0.3s ease-in-out;
+}
+.project-links a:hover {
+  border-bottom: 4px solid #fff;
+}
+@media screen and (max-width: 990px) {
+  .project-content {
+    margin: 50px;
+  }
+  .project-container {
+    margin: 4vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .project-box h2 {
+    font-size: 3.2rem;
+  }
+  .project-container p {
+    font-size: 1rem;
+  }
+  .project-links a {
+    padding: 2vw;
+    font-size: 1rem;
+  }
+  .project-container img {
+    width: 50vw;
+  }
+}
