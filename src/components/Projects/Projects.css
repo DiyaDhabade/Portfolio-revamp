@@ -54,6 +54,7 @@
   width: 100%;
   background: -webkit-linear-gradient(#59a3ed, #8543c6);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .project-links a {

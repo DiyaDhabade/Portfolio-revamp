@@ -56,6 +56,7 @@ body::-webkit-scrollbar-thumb {
   text-decoration: none;
   background: -webkit-linear-gradient(#90c7fe, #aa73e2);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   font-size: 1.6vw;
   font-weight: 800;
@@ -66,6 +67,7 @@ body::-webkit-scrollbar-thumb {
 .Navbar-Content a:hover {
   background: -webkit-linear-gradient(#59a3ed, #8543c6);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   border-bottom: 4px solid #000;
 }

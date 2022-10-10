@@ -31,6 +31,7 @@
   margin-bottom: 1rem;
   background: -webkit-linear-gradient(#59a3ed, #8543c6);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .vertical-timeline-date {
@@ -38,8 +39,8 @@
   font-weight: 400;
   margin-bottom: 1rem;
 }
-.Work-content a {
-  font-size: 1.2rem;
+.Work-content p {
+  font-size: 1.4rem;
   font-weight: 200;
 }
 @media screen and (max-width: 800px) {
@@ -59,7 +60,7 @@
   .vertical-timeline-date {
     font-size: 1.1rem;
   }
-  .Work-content a {
+  .Work-content p {
     font-size: 1rem;
   }
 }

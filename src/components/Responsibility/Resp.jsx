@@ -10,7 +10,7 @@ class Resp extends Component {
         <h1>Positions of Responsibilities</h1>
         <div className="resp-element">
           <div className="resp-logo">
-            <img src={gslogo} />
+            <img src={gslogo} alt="" />
           </div>
           <div className="resp-Content">
             <h1>GirlScript Manipal</h1>
@@ -31,7 +31,7 @@ class Resp extends Component {
 
         <div className="resp-element">
           <div className="resp-logo">
-            <img src={acmwlogo} />
+            <img src={acmwlogo} alt="" />
           </div>
           <div className="resp-Content">
             <h1>Association of Computing Machinery, Manipal</h1>

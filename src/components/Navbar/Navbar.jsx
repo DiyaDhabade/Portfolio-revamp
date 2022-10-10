@@ -7,7 +7,7 @@ class Navbar extends Component {
     return (
       <div className="NavbarItems">
         <div className="Navbar-logo">
-          <img src={DiyaLogo} />
+          <img src={DiyaLogo} alt="" />
         </div>
         <div className="Navbar-Content">
           <a href="Projects">Projects</a>

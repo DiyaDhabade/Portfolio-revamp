@@ -10,7 +10,7 @@ class Projects extends Component {
         <div className="project-box">
           <h2>SexEdify</h2>
           <div className="project-container">
-            <img src={sexedify} />
+            <img src={sexedify} alt="" />
             <div className="project-text">
               <p>
                 A haven for safe learning and conversation about sex-ed.

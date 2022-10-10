@@ -17,7 +17,7 @@ class WorkExp extends Component {
         <VerticalTimeline>
           <VerticalTimelineElement className="vertical-timeline-element--work">
             <a href="https://fiedra.com/">
-              <img src={fiedralogo} />
+              <img src={fiedralogo} alt="" />
               <h3 className="vertical-timeline-element-title">Fiedra LLC</h3>
               <h4 className="vertical-timeline-element-subtitle">
                 Software Developement Intern
@@ -25,25 +25,25 @@ class WorkExp extends Component {
               <h5 className="vertical-timeline-date">
                 October 2021 - January 2022
               </h5>
-              <a>
+              <p>
                 Fiedra is a social networking platform, for long-form content.
                 Fiedra allows writers to post blog content on their website,
                 follow other writers and reach a wide network through their
                 writing. I worked on developing the web application akin to the
                 deployed iOS app, using ReactJS, Redux and Parse Server for a
                 duration of three months.
-              </a>
+              </p>
             </a>
           </VerticalTimelineElement>
 
           <VerticalTimelineElement className="vertical-timeline-element--work">
             <a href="https://www.linkedin.com/company/santanet-npo/about/">
-              <img src={santanetlogo} />
+              <img src={santanetlogo} alt="" />
               <h3 className="vertical-timeline-element-title">SantaNet</h3>
               <h4 className="vertical-timeline-element-subtitle">
                 Web Development Intern
               </h4>
-              <a>
+              <a href="/">
                 SantaNet is a social service organisation that aims to educate
                 and uplift the less privileged. By using technology, SantaNet
                 wants to dramatically increase transparency in donations and
@@ -60,7 +60,7 @@ class WorkExp extends Component {
 
           <VerticalTimelineElement className="vertical-timeline-element--work">
             <a href="https://www.projectmanas.in/">
-              <img src={manaslogo} />
+              <img src={manaslogo} alt="" />
               <h3 className="vertical-timeline-element-title">Project MANAS</h3>
               <h4 className="vertical-timeline-element-subtitle">
                 Management Team Member
@@ -68,7 +68,7 @@ class WorkExp extends Component {
               <h5 className="vertical-timeline-date">
                 October 2021 - January 2022
               </h5>
-              <a>
+              <a href="/">
                 Project MANAS is the official AI and Robotics team of MAHE,
                 Manipal. Project MANAS aims to inspire advanced research in
                 Artificial Intelligence and oversee its implementation enabling
