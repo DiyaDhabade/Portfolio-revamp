@@ -26,12 +26,12 @@ class WorkExp extends Component {
                 October 2021 - January 2022
               </h5>
               <p>
-                Fiedra is a social networking platform, for long-form content.
-                Fiedra allows writers to post blog content on their website,
-                follow other writers and reach a wide network through their
-                writing. I worked on developing the web application akin to the
-                deployed iOS app, using ReactJS, Redux and Parse Server for a
-                duration of three months.
+                Fiedra is a social networking platform for long-form content.
+                Fiedra allows writers to post blog content on their websites,
+                follow other writers, and reach a vast network through their
+                writing. For a duration of three months, I have worked on
+                developing a web application akin to the deployed iOS app, using
+                ReactJS, Redux, and Parse Server.
               </p>
             </a>
           </VerticalTimelineElement>
@@ -44,15 +44,15 @@ class WorkExp extends Component {
                 Web Development Intern
               </h4>
               <a href="/">
-                SantaNet is a social service organisation that aims to educate
-                and uplift the less privileged. By using technology, SantaNet
-                wants to dramatically increase transparency in donations and
-                automation in practical education for the less privileged, and
+                SantaNet is a social service organization that aims to educate
+                and uplift the less privileged. Using technology, SantaNet wants
+                to dramatically increase transparency in donations and
+                automation in practical education for the less privileged and
                 volunteers for educating and spreading awareness among children
-                in orphanages, foster homes and special education centres. They
-                focus on holistic development through our well designed
-                application and meticulously curated courses on topics like
-                social awareness, STEM made fun, and sexual education. I worked
+                in orphanages, foster homes, and special education centers. They
+                focus on holistic development through our well-designed
+                application and meticulously curated courses on social
+                awareness, STEM-made fun, and sexual education. I have worked
                 with ReactJS to develop the web application.
               </a>
             </a>
@@ -71,12 +71,12 @@ class WorkExp extends Component {
               <a href="/">
                 Project MANAS is the official AI and Robotics team of MAHE,
                 Manipal. Project MANAS aims to inspire advanced research in
-                Artificial Intelligence and oversee its implementation enabling
-                automated systems to be made available to generous populous.
-                Being a member of the Management Team, I was responsible for the
-                revamping of the project website and handling the social media
+                artificial intelligence and oversee its implementation, enabling
+                automated systems to be made available to the generous populous.
+                As a member of the management team, I was responsible for
+                revamping the project website and handling the social media
                 accounts. I designed and developed a website for the team using
-                ReactJs to increase front-end performance by 20%.
+                ReactJS to increase front-end performance by 20%.
               </a>
             </a>
           </VerticalTimelineElement>

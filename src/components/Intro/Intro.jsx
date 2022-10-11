@@ -12,18 +12,18 @@ class Intro extends Component {
         <div className="intro-Content">
           <h1>
             Hey, I'm Diya Dhabade, a technology enthusiast who is an ardent
-            believer of using technology for good and enjoys meeting
+            believer in using technology for good and enjoys meeting
             like-minded, passionate people!
           </h1>
           <p>
             I am an engineering undergraduate at the Manipal Institute of
-            Technology, Manipal majoring in Electrical and Electronics
+            Technology, Manipal, majoring in Electrical and Electronics
             Engineering. I'm a creative individual with a knack for
             problem-solving. My aim is to work towards building refined and
             accessible technology through collaboration and an innate curiosity
-            to learn and grow. Currently, my work focusses in the domains of
+            to learn and grow. Currently, my work focuses on the domains of
             application development and the Internet of Things. I'm a feminist
-            and believe in channeling tech for the cause.
+            and believe in channelling tech for the cause.
           </p>
           <div className="intro-links">
             <a href="https://www.linkedin.com/in/diya-dhabade-7267b6210/">

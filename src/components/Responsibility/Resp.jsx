@@ -17,14 +17,13 @@ class Resp extends Component {
             <h3>Co-founder and Design Lead</h3>
             <p>
               GirlScript Manipal is a community we started with a vision to
-              encourage novices and minorities in tech and to have the
-              confidence to grow exponentially in their learning curve whilst
-              developing a nurturing community. We are a community of 100+
-              members and have conducted various bootcamps, competitions and
-              workshops from topics ranging from Git & Github, ReactJS,
-              designing in Figma and so on. We believe in inclusivity in
-              technology and encourage the contribution of women and minorities
-              in tech.
+              encourage novices and minorities in tech to have the confidence to
+              grow exponentially in their learning curve whilst developing a
+              nurturing community. We are a community of 100+ members and have
+              conducted various boot camps, competitions, and workshops on
+              topics ranging from Git & Github, ReactJS, designing in Figma, and
+              so on. We believe in inclusivity in technology and encourage the
+              contribution of women and minorities in tech.
             </p>
           </div>
         </div>

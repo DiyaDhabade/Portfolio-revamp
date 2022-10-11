@@ -12,7 +12,7 @@ class Navbar extends Component {
         <div className="Navbar-Content">
           <a href="Projects">Projects</a>
           <a href="#Work">Work</a>
-          <a href="#Reseach">Reseach</a>
+          <a href="#Reseach">Research</a>
         </div>
       </div>
     );
